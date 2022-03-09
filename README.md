@@ -1,0 +1,2 @@
+# TrademoQA
+QA integration project
